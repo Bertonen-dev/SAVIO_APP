@@ -231,7 +231,7 @@ ________________________________________________________________________________
 ## 🏁 Licencia / License
 Este proyecto se publica bajo licencia MIT, lo que permite su libre uso, modificación y distribución, siempre que se mantenga el reconocimiento al autor original.
 ---
-This project is published under the **MIT License**, allowing free use, modification, and distribution as long as credit is given to the original author.
+## This project is published under the **MIT License**, allowing free use, modification, and distribution as long as credit is given to the original author.
 
 
 
