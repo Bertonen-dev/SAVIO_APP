@@ -1,4 +1,4 @@
-🇬🇧 To read this in English, [click here](#savio-app-1)
+🇬🇧 To read this in English, [click here](#english)
 
 # 📱 SAVIO APP
 
@@ -110,7 +110,10 @@ Durante el desarrollo se realizaron pruebas manuales y de integración, comproba
 
 ***
 
+<a id="english"></a>
+
 # 🇬🇧📱 SAVIO APP
+
 
 **SAVIO** is a mobile application developed in **Android Studio (Kotlin)** that acts as an intelligent personal assistant, helping users organize their tasks, notes, shopping lists, reminders, and events — all from a single platform.  
 
