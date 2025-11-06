@@ -1,4 +1,4 @@
-🇬🇧 For English instructions, [click here](#-📱-savio-app-1)
+🇬🇧 To read this in English, [click here](#savio-app-1)
 
 # 📱 SAVIO APP
 
