@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="terms_and_conditions_title">Términos y Condiciones de Uso y Política de Privacidad</string>
+    <string name="terms_and_conditions_text">
+        Términos y Condiciones de Uso y Política de Privacidad\n\n
+
+        1. Introducción\n
+        Este documento regula el uso de la aplicación móvil Savio App, propiedad de SAVIO, con domicilio en Santander, España. Al registrarse y utilizar esta aplicación, el usuario acepta íntegramente los términos y condiciones aquí descritos.\n\n
+
+        2. Objeto\n
+        La aplicación tiene como objetivo facilitar a los usuarios la gestión personal de tareas, listas de compra, notas, eventos y acceso a información adicional como el estado del tiempo.\n\n
+
+        3. Registro y Cuenta de Usuario\n
+        Para utilizar ciertas funciones, es necesario registrarse proporcionando datos personales. El usuario se compromete a facilitar datos veraces y actualizar cualquier cambio.\n\n
+
+        4. Uso de la Aplicación\n
+        El usuario se obliga a utilizar la app conforme a la ley, la moral y el orden público, y a respetar los derechos de terceros.\n\n
+
+        5. Venta y Uso de Datos Anónimos\n
+        Podemos compartir o vender datos agregados y anonimizados, tales como estadísticas demográficas (edad, género, hábitos de compra) obtenidos a partir del uso de la app. Bajo ningún concepto se venderán o compartirán datos personales identificables. Esta información es utilizada para mejorar el servicio y colaborar con empresas interesadas en tendencias generales de consumo.\n\n
+
+        6. Política de Privacidad\n
+        6.1. Datos Recogidos\n
+        Recopilamos datos personales necesarios para la creación de cuenta y el correcto funcionamiento de la aplicación, tales como nombre, correo electrónico, edad, género y datos generados por el uso de la app.\n\n
+
+        6.2. Finalidad del Tratamiento\n
+        Los datos son tratados con la finalidad de gestionar la cuenta del usuario, ofrecer servicios personalizados y mejorar la experiencia de uso.\n\n
+
+        6.3. Seguridad de los Datos\n
+        Implementamos medidas técnicas y organizativas para proteger los datos contra accesos no autorizados, pérdidas o alteraciones.\n\n
+
+        6.4. Derechos del Usuario\n
+        Usted tiene derecho a acceder, rectificar, borrar, limitar el tratamiento y portabilidad de sus datos, así como a oponerse a su tratamiento. Puede ejercer estos derechos contactándonos en savio.app@gmail.com.\n\n
+
+        6.5. Aceptación Íntegra de las Condiciones\n
+        El uso de esta aplicación está condicionado a la aceptación completa y sin reservas del presente documento de Términos y Condiciones de Uso y Política de Privacidad. El usuario entiende y acepta que no es posible seleccionar o excluir cláusulas específicas de este documento según su conveniencia. La aceptación debe ser total y conjunta. En caso de no estar de acuerdo con cualquiera de los términos establecidos, el usuario no podrá registrarse ni utilizar la aplicación.\n\n
+
+        7. Modificaciones\n
+        Nos reservamos el derecho de modificar estas condiciones en cualquier momento, notificándolo a los usuarios registrados a través de la aplicación o por correo electrónico.\n\n
+
+        8. Legislación Aplicable y Jurisdicción\n
+        Este documento se rige por la legislación española. Cualquier conflicto será sometido a los juzgados y tribunales competentes de Santander, Cantabria.
+    </string>
+</resources>
